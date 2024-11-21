@@ -10,6 +10,7 @@ Everyone listed below has submitted ideas that have been added to HEARTH. Thank 
 | Jamie Williams |  x:[@jamieantisocial](https://x.com/jamieantisocial) | Early Contributor. B004, H006, H007 |
 | Audra Streetman | x:[@audrastreetman](https://x.com/audrastreetman) / LI:[Audra Streetman](https://www.linkedin.com/in/audrastreetman/) | Early Contributor. H008, M005 | 
 | Oussama Azrara |  / LI:[Oussama AZRARA ](https://www.linkedin.com/in/azrara/) | Early Contributor. H009, H0010 | 
+| Dr. Ryan Fetterman |  x:[@iknowuhack](https://x.com/iknowuhack) / LI:[Ryan Fetterman](https://www.linkedin.com/in/ryan-fetterman/) | Early Contributor. M006.md, M007.md |
 
 <br> </br>
 >[!IMPORTANT]
